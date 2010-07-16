@@ -10,5 +10,5 @@ blockquote { font-size: 32px; }
 code { font-size: 22px; }
 .commandline code.result { color: #999; }
 
-.smbullets ul li { text-align: left; }
-.smbullets ul { margin-left: 3em; list-style: inside disc; }
+.bullets ul li { text-align: left; }
+.bullets ul { margin-left: 3em; list-style: inside disc; }
