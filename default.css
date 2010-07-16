@@ -1,0 +1,14 @@
+body { font-family: Georgia; }
+
+a { color: #000; text-decoration: none; }
+a:visited { color: #000; }
+a:hover { text-decoration: underline; }
+
+h1 { font-size: 55px; }
+img { border: 3px solid #eee; padding: 5px; }
+blockquote { font-size: 32px; }
+code { font-size: 22px; }
+.commandline code.result { color: #999; }
+
+.smbullets ul li { text-align: left; }
+.smbullets ul { margin-left: 3em; list-style: inside disc; }
