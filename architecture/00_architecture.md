@@ -25,7 +25,7 @@
 !SLIDE bullets
 
 * MySQL backups
-* Mediawiki XML backups
+* MediaWiki XML backups
 * System backups
 * MySQL replication
 

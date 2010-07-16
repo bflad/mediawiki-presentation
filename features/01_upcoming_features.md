@@ -4,15 +4,15 @@
 
 !SLIDE bullets
 
-* Mediawiki 1.16
+* MediaWiki 1.16
 
 !SLIDE center
 
-![Mediawiki1_16](mediawiki-1_16.png)
+![MediaWiki1_16](mediawiki-1_16.png)
 
 !SLIDE bullets
 
-* Mediawiki 1.16
+* MediaWiki 1.16
 * Mobile skins
 * OpenID (hopefully SSO!)
 * mediawiki-dev?

@@ -5,4 +5,4 @@
 !SLIDE bullets
 
 * Syntax Highlighter 3.0
-* Mediawiki API enabled
+* MediaWiki API enabled
