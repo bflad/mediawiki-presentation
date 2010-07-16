@@ -1,4 +1,4 @@
 !SLIDE center
 
-# Mediawiki: Collaborative and Open Documentation #
-![Mediawiki](mediawiki.png)
+# MediaWiki: Collaborative and Open Documentation #
+![MediaWiki](mediawiki.png)
