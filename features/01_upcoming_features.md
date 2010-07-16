@@ -2,7 +2,7 @@
 
 ### Any upcoming features? ###
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * Mediawiki 1.16
 
@@ -10,7 +10,7 @@
 
 ![Mediawiki1_16](mediawiki-1_16.png)
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * Mediawiki 1.16
 * Mobile skins

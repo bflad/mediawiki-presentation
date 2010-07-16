@@ -18,7 +18,7 @@
 
 ### So what about WCIT/Wharton? ###
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * Remember that old, busted MoinMoin SPOTwiki?
 * Documentation for all

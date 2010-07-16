@@ -2,7 +2,7 @@
 
 ### Any new features lately? ###
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * Syntax Highlighter 3.0
 * Mediawiki API enabled

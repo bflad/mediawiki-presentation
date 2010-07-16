@@ -22,7 +22,7 @@
 
 ### Okay, those are sweet. What about reliability? ###
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * MySQL backups
 * Mediawiki XML backups
@@ -33,7 +33,7 @@
 
 ### Other neat stuff? ###
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * AD Authentication (can be limited per group)
 * Google Search Appliances

@@ -6,7 +6,7 @@
 
 ### So what can I put in there? ###
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * Documentation
 * Standard practices
@@ -22,7 +22,7 @@
 
 The usual suspects. If you have any doubts, it is probably best to not place it on the wiki.
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * HR or personally identifiable data (including but not limited to: SSNs, credit card numbers, etc)
 * Passwords
@@ -37,7 +37,7 @@ The usual suspects. If you have any doubts, it is probably best to not place it 
 
 It's up to you! I'll offer my personal insight though...
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * Categories!
 * Consistency
@@ -48,7 +48,7 @@ It's up to you! I'll offer my personal insight though...
 
 ### Any other helpful hints? ###
 
-!SLIDE center bullets
+!SLIDE bullets
 
 * Comment, comment, comment!
 * Creating new articles
