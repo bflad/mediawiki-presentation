@@ -4,4 +4,4 @@
 
 !SLIDE center
 
-# Quick shout out: instances are cheap! #
+# Quick shout out: instances are cheap (free!) #

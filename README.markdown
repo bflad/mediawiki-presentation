@@ -1,1 +1,1 @@
-# Mediawiki Presentation
+# MediaWiki Presentation
